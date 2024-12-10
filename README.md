@@ -1,7 +1,7 @@
 
 # SnowMC ❄️
 
-A new approach to minecraft modding. 
+A new performance focused approach to minecraft modding.
 
 
 ## Acknowledgements
